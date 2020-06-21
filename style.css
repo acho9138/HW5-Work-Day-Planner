@@ -24,7 +24,7 @@ textarea {
 .description {
   white-space: pre-wrap;
   text-align: left;
-  padding-top: 7px;
+  border: none;
 }
 
 .time-block {
@@ -63,12 +63,23 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
-  color: white;
-  padding-top: 30px;
 }
 
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
   color: black;
+}
+
+.button {
+  display: block;
+  background-color: transparent;
+  border: none;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+button:focus {
+  outline: 0;
 }
