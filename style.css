@@ -83,3 +83,7 @@ textarea {
 button:focus {
   outline: 0;
 }
+
+.container {
+  margin-bottom: 35px;
+}
