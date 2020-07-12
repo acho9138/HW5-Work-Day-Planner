@@ -6,6 +6,11 @@ A daily planner which allows you to write a task in a specific time slot and sav
 
 It is colour-coded according to the time of day to easily track what tasks are past and upcoming (i.e. grey for past events, red for the current event and green for upcoming events).
 
+## Usage
+
+![image](./screenshot.png)
+
+
 ## Try Plan Your Day!
 
 https://acho9138.github.io/HW5-Work-Day-Planner/
